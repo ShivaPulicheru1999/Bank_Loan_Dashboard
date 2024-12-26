@@ -80,7 +80,7 @@ This grid view empowers users to monitor loan portfolio health and make data-dri
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
-
+- Dashboard interaction<a href="https://github.com/ShivaPulicheru1999/Bank_Loan_Dashboard/blob/main/Bank%20Loan%20Overview.pdf"> View Dashboard</a>
 ---
 
 ## Workflow and Steps
