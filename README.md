@@ -133,5 +133,17 @@ Loan-KPI-Dashboard/
 |-- README.md                 # Project overview
 ```
 
-
+Loan-KPI-Dashboard/
+|-- data/
+|   |-- raw_data.csv          # Raw data files
+|   |-- cleaned_data.csv      # Processed data
+|
+|-- scripts/
+|   |-- data_cleaning.pbix    # Power Query steps
+|   |-- dax_functions.txt     # Common DAX functions used
+|
+|-- visuals/
+|   |-- charts_screenshots/   # Screenshots of dashboard visuals
+|
+|-- README.md                 # Project overview
 
