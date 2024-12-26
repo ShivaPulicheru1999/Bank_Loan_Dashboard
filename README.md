@@ -132,6 +132,20 @@ Loan-KPI-Dashboard/
 |
 |-- README.md                 # Project overview
 ```
+# Project Name
+
+Brief description of what the project does.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Repository Structure
+
+This is the structure of the project repository:
 
 ---
 
