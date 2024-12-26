@@ -1,7 +1,10 @@
 # Bank_Loan_Dashboard
 Power bi Dashboard
 
-## # README for Loan KPI Dashboard
+### Technologies used
+![68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e45626f7430676e56415855454e7653564374526161414861454b3f7069643d496d674465742672733d31](https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66)
+
+## # README for Loan KPI Dashboad
 
 ## Overview
 This project focuses on building a comprehensive analytics dashboard to monitor loan performance and insights. The dashboard will showcase Key Performance Indicators (KPIs), provide grid views, and display various data visualizations to assist in data-driven decision-making. Below are the key components, KPIs, and processes involved in the project.
