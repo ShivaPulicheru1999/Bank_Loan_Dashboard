@@ -2,7 +2,7 @@
 Power bi Dashboard
 
 ### Technologies used
-![Microsoft-Excel-Logo-700x394](https://github.com/user-attachments/assets/afac138f-5d94-436d-afb2-1761bcfc1a23)  width="100" height="50"
+<![Microsoft-Excel-Logo-700x394](https://github.com/user-attachments/assets/afac138f-5d94-436d-afb2-1761bcfc1a23)  width="100" height="50"/>
 
 <img src="https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66" width="100" height="50" />
 
