@@ -53,6 +53,8 @@ The grid view report categorizes loans by 'Loan Status' and provides insights in
 
 This grid view empowers users to monitor loan portfolio health and make data-driven decisions.
 
+- Dashboard interaction<a href="https://github.com/ShivaPulicheru1999/Bank_Loan_Dashboard/blob/main/Bank%20Loan%20Sumary.pdf"> View Dashboard</a>
+
 ---
 
 ## Charts and Visualizations
