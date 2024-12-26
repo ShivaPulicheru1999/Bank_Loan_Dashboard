@@ -135,26 +135,6 @@ Loan-KPI-Dashboard/
 
 ---
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Loan-KPI-Dashboard.git
-   ```
-
-2. Open the Power BI file in the `scripts` folder.
-3. Connect the file to your local dataset (if required).
-4. Refresh the data to load the latest values.
-5. Explore the dashboard to gain insights into loan performance metrics.
-
----
-
-## Contribution Guidelines
-1. Fork the repository and create a feature branch.
-2. Commit your changes with descriptive messages.
-3. Submit a pull request for review.
-
----
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
