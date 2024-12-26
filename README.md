@@ -2,7 +2,7 @@
 Power bi Dashboard
 
 ### Technologies used
-<img src="https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66" width="300" />
+<img src="https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66" width="100" />
 
 ## # README for Loan KPI Dashboad
 
